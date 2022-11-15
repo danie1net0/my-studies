@@ -13,6 +13,7 @@ In this repository are listed other repositories with examples of training and e
 - [Object calisthenics - Alura trainning](https://github.com/danie1net0-labs/alura-object-calisthenics)
 - [Behavioral Patterns - Alura trainning](https://github.com/danie1net0-labs/alura-behavioral-patterns)
 - [Knowing Doctrine ORM - Alura trainning](https://github.com/danie1net0/alura-knowing-docrine-orm)
+- [Doctrine: migrations, reports and performance - Alura trainning](https://github.com/danie1net0-labs/alura-doctrine-migrations-and-cache)
 
 ## JavaScript
 
