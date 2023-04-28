@@ -18,3 +18,6 @@ In this repository are listed other repositories with examples of training and e
 ## JavaScript
 
 - [Creating a library with NodeJS - Alura trainning](https://github.com/danie1net0-labs/alura-lib-nodejs)
+
+## Infra
+- [AWS Lambda - Alura trainning](https://github.com/danie1net0-labs/alura-aws-lambda)
